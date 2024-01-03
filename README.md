@@ -13,5 +13,5 @@ This is a todo app with sign in functionality using
 ## Credit
 
 Created by 
-[Jared Hanson](https://www.jaredhanson.me/)
+[Jared Hanson](https://www.jaredhanson.me/) /
 [Themba G Chauke](https://themba.onrender.com/)
