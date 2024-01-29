@@ -58,7 +58,6 @@ Follow these steps to set up and run the ToDo app:
    - Create a `.env` file in the root directory.
    - Add the following variables:
      ```
-     SESSION_SECRET=your_session_secret
      GOOGLE_CLIENT_ID=your_google_client_id
      GOOGLE_CLIENT_SECRET=your_google_client_secret
      ```
